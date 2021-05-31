@@ -5,6 +5,8 @@ Esse projeto foi realizado como trabalho final da Cadeira de Laboratório de Pro
 
 Ele consiste no já conhecidíssimo jogo da cobrinha, que conta com recursos de Save game e continue, que utiliza manipulação de arquivo de texto.
 
-O jogo foi feito usando estritamente linguagem C, com finalidade de por em prática todo conhecimento adquirido durante a disciplina citada.
+Para rodar o jogo é necessario apenas o download do arquivo cobra 2.1.exe, após isso o windows conseguirá rodar o jogo.
+
+O jogo foi feito usando estritamente linguagem C, com finalidade de por em prática todo conhecimento adquirido durante a disciplina.
 
 Autor: Geilson Dos Santos Araujo
